@@ -1,0 +1,9 @@
+{
+  "lang": "uz",
+  "conf_thr": 0.72,
+  "cooldown": 2.5,
+  "window_size": 12,
+  "mirror": true,
+  "landmarks": true,
+  "theme": "dark"
+}
